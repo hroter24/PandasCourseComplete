@@ -1,4 +1,4 @@
-# PandasCourseComplete
+# PandasCourseExercises
 Udemy Pandas Course Completed Notebooks
 
 
